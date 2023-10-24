@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>/</link><description>Recent content on</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Archives</title><link>/page/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>/page/archives/</guid><description/></item><item><title>The First One</title><link>/post/001-test/</link><pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><guid>/post/001-test/</guid><description>&lt;h1 id="my-first-post">My First Post&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Steamed</title><link>https://shuya404os.github.io/blog_public/</link><description>Recent content on Steamed</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Shuya Hu</copyright><lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://shuya404os.github.io/blog_public/index.xml" rel="self" type="application/rss+xml"/><item><title>Archives</title><link>https://shuya404os.github.io/blog_public/page/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://shuya404os.github.io/blog_public/page/archives/</guid><description/></item><item><title>The First One</title><link>https://shuya404os.github.io/blog_public/post/001-test/</link><pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><guid>https://shuya404os.github.io/blog_public/post/001-test/</guid><description>&lt;h1 id="my-first-post">My First Post&lt;/h1>
 &lt;p>This is my first testing post&lt;/p>
 &lt;h2 id="heading-2">Heading 2&lt;/h2>
-&lt;p>&lt;img src="/post/001-test/test.webp"
+&lt;p>&lt;img src="https://shuya404os.github.io/blog_public/blog_public/post/001-test/test.webp"
 width="1550"
 height="1338"
-srcset="/post/001-test/test_hu6ab1d8eeef2ade6e0df4cbebeb6e0fd6_77004_480x0_resize_q75_h2_box_2.webp 480w, /post/001-test/test_hu6ab1d8eeef2ade6e0df4cbebeb6e0fd6_77004_1024x0_resize_q75_h2_box_2.webp 1024w"
+srcset="https://shuya404os.github.io/blog_public/blog_public/post/001-test/test_hu6ab1d8eeef2ade6e0df4cbebeb6e0fd6_77004_480x0_resize_q75_h2_box_2.webp 480w, https://shuya404os.github.io/blog_public/blog_public/post/001-test/test_hu6ab1d8eeef2ade6e0df4cbebeb6e0fd6_77004_1024x0_resize_q75_h2_box_2.webp 1024w"
 loading="lazy"
 alt="Test Img"
 class="gallery-image"
 data-flex-grow="115"
 data-flex-basis="278px"
 >&lt;/p>
-&lt;h2 id="heading-2-1">Heading 2&lt;/h2></description></item><item><title>The Second One</title><link>/post/002-test2/</link><pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><guid>/post/002-test2/</guid><description>&lt;h1 id="my-first-post">My First Post&lt;/h1>
+&lt;h2 id="heading-2-1">Heading 2&lt;/h2></description></item><item><title>The Second One</title><link>https://shuya404os.github.io/blog_public/post/002-test2/</link><pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><guid>https://shuya404os.github.io/blog_public/post/002-test2/</guid><description>&lt;h1 id="my-first-post">My First Post&lt;/h1>
 &lt;p>This is my second testing post&lt;/p>
 &lt;h2 id="heading-2">Heading 2&lt;/h2>
-&lt;h2 id="heading-2-1">Heading 2&lt;/h2></description></item><item><title>About</title><link>/page/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/page/about/</guid><description>&lt;p>You can find more technical details about me on my &lt;a class="link" href="https://github.com/shuya404os" target="_blank" rel="noopener"
+&lt;h2 id="heading-2-1">Heading 2&lt;/h2></description></item><item><title>About</title><link>https://shuya404os.github.io/blog_public/page/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://shuya404os.github.io/blog_public/page/about/</guid><description>&lt;p>You can find more technical details about me on my &lt;a class="link" href="https://github.com/shuya404os" target="_blank" rel="noopener"
 >Github&lt;/a>&lt;/p>
 &lt;p>My blog is the archive about:&lt;/p>
 &lt;ol>
@@ -22,13 +22,13 @@ data-flex-basis="278px"
 &lt;li>A record of what tips I learned online to make my life easier.&lt;/li>
 &lt;li>Random stuff about my life.&lt;/li>
 &lt;/ol>
-&lt;p>&lt;img src="/page/about/about.jpeg"
+&lt;p>&lt;img src="https://shuya404os.github.io/blog_public/blog_public/page/about/about.jpeg"
 width="626"
 height="960"
-srcset="/page/about/about_hu1fc33265e9b4820d8d55c290501a7d9c_61627_480x0_resize_q75_box.jpeg 480w, /page/about/about_hu1fc33265e9b4820d8d55c290501a7d9c_61627_1024x0_resize_q75_box.jpeg 1024w"
+srcset="https://shuya404os.github.io/blog_public/blog_public/page/about/about_hu1fc33265e9b4820d8d55c290501a7d9c_61627_480x0_resize_q75_box.jpeg 480w, https://shuya404os.github.io/blog_public/blog_public/page/about/about_hu1fc33265e9b4820d8d55c290501a7d9c_61627_1024x0_resize_q75_box.jpeg 1024w"
 loading="lazy"
 alt="My Life Philosophy👆"
 class="gallery-image"
 data-flex-grow="65"
 data-flex-basis="156px"
->&lt;/p></description></item><item><title>Search</title><link>/page/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/page/search/</guid><description/></item></channel></rss>
+>&lt;/p></description></item><item><title>Search</title><link>https://shuya404os.github.io/blog_public/page/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://shuya404os.github.io/blog_public/page/search/</guid><description/></item></channel></rss>
