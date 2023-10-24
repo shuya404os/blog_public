@@ -1,21 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on</title><link>hthttps://www.steamed.dev/post/</link><description>Recent content in Posts on</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Coffee.ICU</copyright><lastBuildDate>Fri, 08 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="hthttps://www.steamed.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>The First One</title><link>hthttps://www.steamed.dev/post/001-test/</link><pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><guid>hthttps://www.steamed.dev/post/001-test/</guid><description>&lt;h1 id="my-first-post">My First Post&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on</title><link>hthttps://www.steamed.dev/post/</link><description>Recent content in Posts on</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Coffee.ICU</copyright><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="hthttps://www.steamed.dev/post/index.xml" rel="self" type="application/rss+xml"/><item><title>The First Post</title><link>hthttps://www.steamed.dev/post/001-test/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>hthttps://www.steamed.dev/post/001-test/</guid><description>&lt;h2 id="this-is-h2">This is H2&lt;/h2>
+&lt;h3 id="test-h3">Test H3&lt;/h3>
+&lt;h4 id="code-block-test">Code Block Test&lt;/h4>
+&lt;p>This is a JS block&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-js" data-lang="js">&lt;span class="line">&lt;span class="cl">&lt;span class="kr">const&lt;/span> &lt;span class="nx">str&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s2">&amp;#34;Test Code Blog&amp;#34;&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>This is a SQL block&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-SQL" data-lang="SQL">&lt;span class="line">&lt;span class="cl">&lt;span class="k">SELECT&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="k">FROM&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="n">MAPLES&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>This is a Java block&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-java" data-lang="java">&lt;span class="line">&lt;span class="cl">&lt;span class="kd">public&lt;/span> &lt;span class="kd">class&lt;/span> &lt;span class="nc">Website&lt;/span> &lt;span class="o">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">private&lt;/span> &lt;span class="n">String&lt;/span> &lt;span class="n">domain&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s">&amp;#34;example.com&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kd">public&lt;/span> &lt;span class="nf">Website&lt;/span>&lt;span class="o">()&lt;/span> &lt;span class="o">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">this&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="na">domain&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s">&amp;#34;steamed.dev&amp;#34;&lt;/span>&lt;span class="o">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="o">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="another-h2">Another H2&lt;/h2>
 &lt;p>This is my first testing post&lt;/p>
-&lt;h2 id="heading-2">Heading 2&lt;/h2>
 &lt;p>&lt;img src="hthttps://www.steamed.dev/post/001-test/test.webp"
 width="1550"
 height="1338"
 srcset="hthttps://www.steamed.dev/post/001-test/test_hu6ab1d8eeef2ade6e0df4cbebeb6e0fd6_77004_480x0_resize_q75_h2_box_2.webp 480w, hthttps://www.steamed.dev/post/001-test/test_hu6ab1d8eeef2ade6e0df4cbebeb6e0fd6_77004_1024x0_resize_q75_h2_box_2.webp 1024w"
 loading="lazy"
-alt="Test Img"
+alt="Cuties"
 class="gallery-image"
 data-flex-grow="115"
 data-flex-basis="278px"
->&lt;/p>
-&lt;h2 id="heading-2-1">Heading 2&lt;/h2></description></item><item><title>The Second One</title><link>hthttps://www.steamed.dev/post/002-test2/</link><pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><guid>hthttps://www.steamed.dev/post/002-test2/</guid><description>&lt;h1 id="my-first-post">My First Post&lt;/h1>
-&lt;p>This is my second testing post&lt;/p>
-&lt;h2 id="heading-2">Heading 2&lt;/h2>
-&lt;h2 id="heading-2-1">Heading 2&lt;/h2></description></item><item><title>The Third One</title><link>hthttps://www.steamed.dev/post/003-test3/</link><pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><guid>hthttps://www.steamed.dev/post/003-test3/</guid><description>&lt;h1 id="my-first-post">My First Post&lt;/h1>
-&lt;p>This is my second testing post&lt;/p>
-&lt;h2 id="heading-2">Heading 2&lt;/h2>
-&lt;p>123123123&lt;/p>
-&lt;h2 id="heading-2-1">Heading 2&lt;/h2></description></item></channel></rss>
+>&lt;/p></description></item></channel></rss>
