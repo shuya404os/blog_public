@@ -1,17 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on</title><link>/post/</link><description>Recent content in Posts on</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 08 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml"/><item><title>The First One</title><link>/post/001-test/</link><pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><guid>/post/001-test/</guid><description>&lt;h1 id="my-first-post">My First Post&lt;/h1>
-&lt;p>This is my first testing post&lt;/p>
-&lt;h2 id="heading-2">Heading 2&lt;/h2>
-&lt;p>&lt;img src="/post/001-test/test.webp"
-width="1550"
-height="1338"
-srcset="/post/001-test/test_hu6ab1d8eeef2ade6e0df4cbebeb6e0fd6_77004_480x0_resize_q75_h2_box_2.webp 480w, /post/001-test/test_hu6ab1d8eeef2ade6e0df4cbebeb6e0fd6_77004_1024x0_resize_q75_h2_box_2.webp 1024w"
-loading="lazy"
-alt="Test Img"
-class="gallery-image"
-data-flex-grow="115"
-data-flex-basis="278px"
->&lt;/p>
-&lt;h2 id="heading-2-1">Heading 2&lt;/h2></description></item><item><title>The Second One</title><link>/post/002-test2/</link><pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><guid>/post/002-test2/</guid><description>&lt;h1 id="my-first-post">My First Post&lt;/h1>
-&lt;p>This is my second testing post&lt;/p>
-&lt;h2 id="heading-2">Heading 2&lt;/h2>
-&lt;h2 id="heading-2-1">Heading 2&lt;/h2></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on </title>
+        <link>/post/</link>
+        <description>Recent content in Posts on </description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Fri, 08 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>The First One</title>
+        <link>/post/001-test/</link>
+        <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>/post/001-test/</guid>
+        <description>&lt;h1 id=&#34;my-first-post&#34;&gt;My First Post&lt;/h1&gt;
+&lt;p&gt;This is my first testing post&lt;/p&gt;
+&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;/post/001-test/test.webp&#34;
+	width=&#34;1550&#34;
+	height=&#34;1338&#34;
+	srcset=&#34;/post/001-test/test_hu6ab1d8eeef2ade6e0df4cbebeb6e0fd6_77004_480x0_resize_q75_h2_box_2.webp 480w, /post/001-test/test_hu6ab1d8eeef2ade6e0df4cbebeb6e0fd6_77004_1024x0_resize_q75_h2_box_2.webp 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Test Img&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;115&#34;
+		data-flex-basis=&#34;278px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;heading-2-1&#34;&gt;Heading 2&lt;/h2&gt;
+</description>
+        </item>
+        <item>
+        <title>The Second One</title>
+        <link>/post/002-test2/</link>
+        <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>/post/002-test2/</guid>
+        <description>&lt;h1 id=&#34;my-first-post&#34;&gt;My First Post&lt;/h1&gt;
+&lt;p&gt;This is my second testing post&lt;/p&gt;
+&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;
+&lt;h2 id=&#34;heading-2-1&#34;&gt;Heading 2&lt;/h2&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
