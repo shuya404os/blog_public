@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>hthttps://www.steamed.dev/</link><description>Recent content on</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Coffee.ICU</copyright><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="hthttps://www.steamed.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Class comparison in Java, JS, and TypeScript</title><link>hthttps://www.steamed.dev/post/001-class/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>hthttps://www.steamed.dev/post/001-class/</guid><description>&lt;h2 id="class-in-java">Class in Java&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>hthttps://blog.steamed.dev/</link><description>Recent content on</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Coffee.ICU</copyright><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="hthttps://blog.steamed.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Class comparison in Java, JS, and TypeScript</title><link>hthttps://blog.steamed.dev/post/001-class/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>hthttps://blog.steamed.dev/post/001-class/</guid><description>&lt;h2 id="class-in-java">Class in Java&lt;/h2>
 &lt;p>Class is a concept in OOP(object oriented programming) languages.
 But ECMAScript 2015 (also known as ES6) introduces Class in JavaScript, and TypeScript added some extra features to Class in JavaScript and made it more similar to Class in Java.&lt;/p>
 &lt;p>We can consider Class as a blue print for houses. Many actual houses can be built using one blue print. And these actual houses are called instances, or objects.
@@ -185,21 +185,32 @@ The blue print can define there must be doors for one house, but different house
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;h3 id="getters-and-setters-2">Getters and Setters&lt;/h3>
-&lt;p>TBC&amp;hellip;&lt;/p></description></item><item><title>Archives</title><link>hthttps://www.steamed.dev/page/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>hthttps://www.steamed.dev/page/archives/</guid><description/></item><item><title>About</title><link>hthttps://www.steamed.dev/page/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>hthttps://www.steamed.dev/page/about/</guid><description>&lt;p>Hi there&lt;/p>
-&lt;p>My blog is the archive about:&lt;/p>
-&lt;ol>
-&lt;li>A review of what I learned about programming recently.&lt;/li>
-&lt;li>A record of what I learned to make my life easier.&lt;/li>
-&lt;li>Random stuff about my life.&lt;/li>
-&lt;/ol>
-&lt;p>But it&amp;rsquo;s still under construction, have a cup of coffee? ☕&lt;/p>
-&lt;p>&lt;img src="hthttps://www.steamed.dev/page/about/about.jpeg"
+&lt;p>TBC&amp;hellip;&lt;/p></description></item><item><title>Archives</title><link>hthttps://blog.steamed.dev/page/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>hthttps://blog.steamed.dev/page/archives/</guid><description/></item><item><title>Search</title><link>hthttps://blog.steamed.dev/page/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>hthttps://blog.steamed.dev/page/search/</guid><description/></item><item><title>友鏈</title><link>hthttps://blog.steamed.dev/page/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>hthttps://blog.steamed.dev/page/links/</guid><description>&lt;p>點擊即發現更精彩的世界 ✨&lt;/p></description></item><item><title>關於我</title><link>hthttps://blog.steamed.dev/page/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>hthttps://blog.steamed.dev/page/about/</guid><description>&lt;p>這裏是喝黑咖啡造成了黑眼圈（近視版）。我的名字裏有兩個 truths 一個 lie，走過路過要不要找找看？&lt;/p>
+&lt;p>自從發現了及時行樂的真諦，從日常經歷存在主義危機變成了沒心沒肺地開心活著。&lt;/p>
+&lt;p>因爲轉碼對我來説是留學出國跑路最捷徑的路，所以還掙扎在從菜鷄進化為初級程序員的路上，目前在加拿大念 college，目的是黑下來（不是）。&lt;/p>
+&lt;p>愛好是：&lt;/p>
+&lt;ul>
+&lt;li>看漫畫（但是一年沒看了&lt;/li>
+&lt;li>打游戲（上次打是在 2017 年&lt;/li>
+&lt;li>孫燕姿（求求你們了都去聼小衆歌手孫燕姿&lt;/li>
+&lt;li>建政（誰不愛呢 🚬&lt;/li>
+&lt;li>嘟嘟（什麽廢話都要嘟，嘟&amp;mdash;&amp;mdash;&lt;/li>
+&lt;li>學英語（目標是四個九（假的&lt;/li>
+&lt;li>鼓搗代碼（爲了進化爲了光&lt;/li>
+&lt;/ul>
+&lt;p>人生目標是：&lt;/p>
+&lt;ul>
+&lt;li>不用再搬家 🏠&lt;/li>
+&lt;li>養一隻貓（但或許我只是葉公好貓 🐱&lt;/li>
+&lt;/ul>
+&lt;p>很高興可以與你相遇，來杯咖啡？&lt;/p>
+&lt;p>&lt;img src="hthttps://blog.steamed.dev/page/about/about.jpeg"
 width="626"
 height="960"
-srcset="hthttps://www.steamed.dev/page/about/about_hu1fc33265e9b4820d8d55c290501a7d9c_61627_480x0_resize_q75_box.jpeg 480w, hthttps://www.steamed.dev/page/about/about_hu1fc33265e9b4820d8d55c290501a7d9c_61627_1024x0_resize_q75_box.jpeg 1024w"
+srcset="hthttps://blog.steamed.dev/page/about/about_hu1fc33265e9b4820d8d55c290501a7d9c_61627_480x0_resize_q75_box.jpeg 480w, hthttps://blog.steamed.dev/page/about/about_hu1fc33265e9b4820d8d55c290501a7d9c_61627_1024x0_resize_q75_box.jpeg 1024w"
 loading="lazy"
 alt="My Philosophy of Life👆"
 class="gallery-image"
 data-flex-grow="65"
 data-flex-basis="156px"
->&lt;/p></description></item><item><title>Links</title><link>hthttps://www.steamed.dev/page/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>hthttps://www.steamed.dev/page/links/</guid><description/></item><item><title>Search</title><link>hthttps://www.steamed.dev/page/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>hthttps://www.steamed.dev/page/search/</guid><description/></item></channel></rss>
+>&lt;/p></description></item></channel></rss>
